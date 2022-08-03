@@ -1,0 +1,81 @@
+Microdown is a lightweight plain text format for writing structured documents.
+
+# Features
+
+- Lightweight readable formatting syntax.
+- Distraction-free writing. No clicking interruptions.
+- Non-proprietary document format.
+- Platform-agnostic.
+- Easy to use to take personal notes quickly.
+- To create code documentation.
+- Well-tested (> 1500 tests)
+- Conversion to PDF, Text, XHTML.
+- LaTeX support.
+- Rich text comments in the image.
+- Tool support (MicroEd, Document Browser, HTML Styler)
+- Easy to customize?
+- Decent performance?
+
+# History.
+
+- Markdown (syntax and Perl-based tool) was first created in 2004 by John Gruber.
+- MultiMarkdown (2009) : A superset of the Markdown syntax, which adds multiple syntax features (tables, footnotes, and citations, to name a few), various output formats, and so-called “smart” typography for various languages.
+- GitHub Flavored Markdown (2011) : A variant of traditional Markdown that includes fenced code blocking, syntax highlighting, and support for tables
+- Markdown Extra (2013) : Based on Markdown implemented in PHP, Python and Ruby.
+- Microdown (2019?) : Subset of Markdown based on Pillar markup.
+
+# Let's write some *.mic
+
+Metadata
+
+Headers
+
+Paragraphs
+
+Block Quotes
+
+Lists
+
+Links
+    Inline
+    Reference
+
+Code
+    Inline
+    Blocks
+
+# Tools
+    
+## Document Browser
+
+_to be completed_
+
+## MicroEd
+
+_to be completed_
+
+## Microdown HTML Styler
+
+- Choose an exported style.
+- Choose HTML document properties.
+- Shipped with class-less CSS frameworks.
+
+_screenshot or video_
+
+# Internals
+
+- Visitor interface
+_to be completed_
+
+# Myths?
+
+- Lack of UX
+- Not intuitive
+- Only for developers
+ 
+# More advanced features or Future
+
+- Includes?
+- Cross references?
+- Standard?
+

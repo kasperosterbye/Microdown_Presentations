@@ -16,7 +16,7 @@ Microdown is a lightweight plain text format for writing structured documents.
 - Easy to customize?
 - Decent performance?
 
-# History.
+# History
 
 - Markdown (syntax and Perl-based tool) was first created in 2004 by John Gruber.
 - MultiMarkdown (2009) : A superset of the Markdown syntax, which adds multiple syntax features (tables, footnotes, and citations, to name a few), various output formats, and so-called “smart” typography for various languages.
@@ -56,9 +56,12 @@ _to be completed_
 
 ## Microdown HTML Styler
 
-- Choose an exported style.
+- Let you pick and configure a HTML export style.
 - Choose HTML document properties.
-- Shipped with class-less CSS frameworks.
+- Shipped with (> 20) class-less CSS frameworks.
+  - It means you don't need to hand-craft your tags to add classes.
+  - Live source preview so you can see what's being exported.
+  - Some CSS Frameworks include themes, so it's also supported.
 
 _screenshot or video_
 
@@ -67,15 +70,18 @@ _screenshot or video_
 - Visitor interface
 _to be completed_
 
-# Myths?
+# Use cases
 
-- Lack of UX
-- Not intuitive
-- Only for developers
+- The pharo books
+- Slides
+- Class/packet documentation
+- Your Application and project documentation
  
 # More advanced features or Future
 
-- Includes?
+- [Extensions](https://github.com/pillar-markup/Microdown/blob/dev/doc/extension.md)
 - Cross references?
 - Standard?
+- Localization
+- Build TOC trees
 
